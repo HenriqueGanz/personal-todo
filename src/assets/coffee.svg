@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g stroke="brown" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Corpo da xícara -->
+    <path fill="#F4C27A" d="M10 26h44v18a12 12 0 0 1-12 12H22a12 12 0 0 1-12-12V26z"/>
+    
+    <!-- Olhinhos fofos -->
+    <circle cx="24" cy="36" r="2" fill="brown"/>
+    <circle cx="40" cy="36" r="2" fill="brown"/>
+    
+    <!-- Sorrisinho -->
+    <path fill="none" stroke="brown" stroke-width="2" d="M28 42q4 4 8 0"/>
+
+    <!-- Asa da xícara -->
+    <path fill="#F4C27A" d="M54 30h4a6 6 0 0 1 0 12h-4"/>
+
+    <!-- Vapor de café -->
+    <path fill="none" stroke="brown" stroke-width="2" d="M26 12s-3-4-1-7M34 12s-3-4-1-7M42 12s-3-4-1-7"/>
+  </g>
+</svg>

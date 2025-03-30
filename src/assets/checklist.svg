@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="12" y="8" width="40" height="48" rx="4" fill="#f4f4f4" stroke="black" stroke-width="2"/>
+  
+  <!-- Checkmarks -->
+  <path d="M20 20l3 3 6-6" fill="none" stroke="green" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 32l3 3 6-6" fill="none" stroke="green" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 44l3 3 6-6" fill="none" stroke="green" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Linhas representando tarefas -->
+  <line x1="32" y1="20" x2="46" y2="20" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="32" y1="32" x2="46" y2="32" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <line x1="32" y1="44" x2="46" y2="44" stroke="black" stroke-width="2" stroke-linecap="round"/>
+</svg>
