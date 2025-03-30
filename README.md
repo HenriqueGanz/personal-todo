@@ -5,7 +5,7 @@
 ## This project is free to use and modify
 
 ## Just clone the repository using the following command
-`   git clone https://github.com/henriqueganz/personal-todo`
+`   git clone https://github.com/HenriqueGanz/personal-todo.git`
 
 ## To Run the project
 ` npm run install `
